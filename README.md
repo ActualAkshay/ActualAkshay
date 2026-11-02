@@ -13,11 +13,11 @@
 </p>
 
 <p align="center">
-  <a href="https://actualakshay.com"><img src="https://img.shields.io/badge/actualakshay.com-000000?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" /></a>
-  <a href="https://upwork.com/freelancers/actualakshay"><img src="https://img.shields.io/badge/Hire_me_on_Upwork-000000?style=for-the-badge&logo=upwork&logoColor=D4AF37" /></a>
-  <img src="https://img.shields.io/badge/23_Years_of_Coding-000000?style=for-the-badge&logo=codeforces&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/Thailand_🇹🇭-000000?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=ActualAkshay&style=for-the-badge&color=D4AF37&label=PROFILE+VIEWS" />
+  <a href="https://actualakshay.com"><img alt="Website" src="https://img.shields.io/badge/actualakshay.com-000000?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" /></a>
+  <a href="https://upwork.com/freelancers/actualakshay"><img alt="Hire me on Upwork" src="https://img.shields.io/badge/Hire_me_on_Upwork-000000?style=for-the-badge&logo=upwork&logoColor=D4AF37" /></a>
+  <img alt="23 years of coding" src="https://img.shields.io/badge/23_Years_of_Coding-000000?style=for-the-badge&logo=codeforces&logoColor=D4AF37" />
+  <img alt="Based in Thailand" src="https://img.shields.io/badge/Thailand_🇹🇭-000000?style=for-the-badge" />
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=ActualAkshay&style=for-the-badge&color=D4AF37&label=PROFILE+VIEWS" />
 </p>
 
 ---
@@ -43,29 +43,29 @@ Language and stack don't matter much to me; I pick whatever gets the job done be
 
 **Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,go,rust,java,cpp,c,cs,php,ruby,bash&perline=12&theme=dark" />
+  <img alt="Languages" src="https://skillicons.dev/icons?i=python,ts,js,go,rust,java,cpp,c,cs,php,ruby,bash&perline=12&theme=dark" />
   <br/>
   <b><i>…and over 15 more</i></b>
 </p>
 
 **Web & Backend**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,nodejs,express,django,fastapi,tailwind,graphql,mongodb,postgres&perline=12&theme=dark" />
+  <img alt="Web and backend stack" src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,nodejs,express,django,fastapi,tailwind,graphql,mongodb,postgres&perline=12&theme=dark" />
 </p>
 
 **Mobile**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,kotlin,apple,androidstudio,flutter,dart&perline=12&theme=dark" />
+  <img alt="Mobile stack" src="https://skillicons.dev/icons?i=swift,kotlin,apple,androidstudio,flutter,dart&perline=12&theme=dark" />
 </p>
 
 **Cloud & DevOps**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,redis,linux,git,github,vscode&perline=12&theme=dark" />
+  <img alt="Cloud and DevOps stack" src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,redis,linux,git,github,vscode&perline=12&theme=dark" />
 </p>
 
 **AI & ML**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+  <img alt="AI and ML stack" src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
 </p>
 
 ---
@@ -75,11 +75,11 @@ Language and stack don't matter much to me; I pick whatever gets the job done be
 > 🔒 Most of my contributions live in **private repositories** — that's client work.
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ActualAkshay&theme=github_dark" />
+  <img alt="GitHub contribution stats" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ActualAkshay&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=ActualAkshay&background=0D0D0D&ring=D4AF37&fire=D4AF37&currStreakNum=F5E6A8&sideNums=D4AF37&currStreakLabel=D4AF37&sideLabels=F5E6A8&dates=8C7A4B&stroke=3A2F12&hide_border=true&border_radius=10" />
+  <img alt="GitHub streak stats" width="70%" src="https://streak-stats.demolab.com?user=ActualAkshay&background=0D0D0D&ring=D4AF37&fire=D4AF37&currStreakNum=F5E6A8&sideNums=D4AF37&currStreakLabel=D4AF37&sideLabels=F5E6A8&dates=8C7A4B&stroke=3A2F12&hide_border=true&border_radius=10" />
 </p>
 
 <p align="center">
