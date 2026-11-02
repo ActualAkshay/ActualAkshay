@@ -34,12 +34,40 @@ Language and stack don't matter much to me; I pick whatever gets the job done be
 
 ### 🛠️ Toolbox
 
+**Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,go,rust,java,cpp,cs,php,kotlin,swift,dart&perline=12&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,go,rust,java,cpp,c,cs,php,ruby,bash&perline=12&theme=dark" />
+</p>
+
+**Web & Backend**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,nodejs,express,django,fastapi,tailwind,graphql,mongodb,postgres&perline=12&theme=dark" />
+</p>
+
+**Mobile**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=swift,kotlin,apple,androidstudio,flutter,dart&perline=12&theme=dark" />
+</p>
+
+**Cloud & DevOps**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,redis,linux,git,github,vscode&perline=12&theme=dark" />
+</p>
+
+**AI & ML**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,django,fastapi,flutter,tailwind,graphql,mongodb,postgres&perline=12&theme=dark" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,redis,docker,kubernetes,aws,gcp,azure,linux,git,github,vscode&perline=12&theme=dark" />
+  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=claude&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=claude&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" />
+  <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-000000?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=20B8CD" />
 </p>
 
 ---
