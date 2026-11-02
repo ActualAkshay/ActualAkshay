@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,50:3a2f12,100:000000&height=120&section=header&reversal=true" alt="" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=64&duration=1800&pause=100000&color=D4AF37&center=true&vCenter=true&repeat=false&width=800&height=90&lines=AKSHAY+KING" alt="Akshay King" />
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=18&duration=1&pause=100000&color=F5E6A8&center=true&vCenter=true&repeat=false&width=800&height=30&letterSpacing=4px&lines=WHITE-HAT+HACKER+%C2%A0%E2%80%A2%C2%A0+FULL-STACK+%C2%A0%E2%80%A2%C2%A0+AI" alt="White-Hat Hacker • Full-Stack • AI" />
+  <img src="./header.svg" width="100%" alt="Akshay King — White-Hat Hacker • Full-Stack • AI" />
 </p>
 
 <p align="center">
