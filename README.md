@@ -1,16 +1,15 @@
 <p align="center">
-  <img src="./header.svg" width="100%" alt="Akshay King — White-Hat Hacker • Full-Stack • AI" />
+  <img src="./header.svg" width="100%" alt="Akshay King — Full-Stack • AI • Automation" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1400&color=C9A94B&center=true&vCenter=true&width=650&lines=23+years+of+coding+experience;Award-winning+white-hat+hacker;Full-stack+%E2%80%A2+any+language%2C+any+stack;AI+%E2%80%A2+agents+%E2%80%A2+LLM+apps;Large-scale+projects%2C+built+solo;You+bring+the+problem+%E2%80%94+I+solve+it" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1400&color=C9A94B&center=true&vCenter=true&width=650&lines=23+years+of+coding+experience;Full-stack+%E2%80%A2+any+language%2C+any+stack;AI+%E2%80%A2+agents+%E2%80%A2+LLM+apps;Large-scale+projects%2C+built+solo;You+bring+the+problem+%E2%80%94+I+solve+it" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://actualakshay.com"><img alt="Website" src="https://img.shields.io/badge/actualakshay.com-000000?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" /></a>
   <a href="https://upwork.com/freelancers/actualakshay"><img alt="Hire me on Upwork" src="https://img.shields.io/badge/Hire_me_on_Upwork-000000?style=for-the-badge&logo=upwork&logoColor=D4AF37" /></a>
   <img alt="23 years of coding" src="https://img.shields.io/badge/23_Years_of_Coding-000000?style=for-the-badge&logo=codeforces&logoColor=D4AF37" />
-  <img alt="Based in Thailand" src="https://img.shields.io/badge/Thailand_🇹🇭-000000?style=for-the-badge" />
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=ActualAkshay&style=for-the-badge&color=D4AF37&label=PROFILE+VIEWS" />
 </p>
 
@@ -18,10 +17,9 @@
 
 ### 👋 About
 
-Award-winning white-hat hacker with **23 years of coding experience** — more than 75% of my life. I operate solo and take on large-scale projects end to end — from the database to the UI to the AI layer on top.
+Full-stack developer with **23 years of coding experience** — more than 75% of my life. I operate solo and take on large-scale projects end to end — from the database to the UI to the AI layer on top.
 Language and stack don't matter much to me; I pick whatever gets the job done best.
 
-- 🛡️ **White‑hat hacker** — award‑winning security researcher; I find the holes before the bad guys do
 - 🧑‍💻 **Solo operator** — one person, full ownership, from idea to production
 - 🏢 **Large projects** — complex, high‑scale systems for clients
 - 🧩 **Full‑stack** — frontend, backend, APIs, databases, cloud, deployment
